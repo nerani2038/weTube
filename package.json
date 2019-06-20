@@ -1,0 +1,11 @@
+{
+  "name": "full_youtube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube whith Vanilla and NodeJS",
+  "main": "index.js",
+  "author": "Nerani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
